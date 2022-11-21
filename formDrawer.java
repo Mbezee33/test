@@ -22,7 +22,7 @@ public class formDrawer{
     }
     else if (temp ==1){
       diamond(scnr);
-    }
+    } 
     else if (temp ==2){
       rectangle(scnr);
     }
